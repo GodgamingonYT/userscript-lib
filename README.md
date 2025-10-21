@@ -20,7 +20,7 @@ Installation
 Add this to your Tampermonkey script metadata:
 
 ```javascript
-// @require [https://raw.githubusercontent.com/[YourUser]/[YourRepo]/main/iOS26GlassUILib](https://raw.githubusercontent.com/GodgamingonYT/userscript-lib/refs/heads/main/Sync%20UI).js
+// @require https://raw.githubusercontent.com/GodgamingonYT/userscript-lib/refs/heads/main/Sync%20UI
 ```
 
 Basic Usage
